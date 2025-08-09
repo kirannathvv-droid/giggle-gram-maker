@@ -2,7 +2,7 @@
 
 
 # [Birthdayb reminder] 🎯
-
+giggle-gram-maker.lovable.app
 
 ## Basic Details
 ### Team Name: [Aristotle]
@@ -10,8 +10,8 @@
 
 ### Team Members
 - Team Lead: [Kiran Nath V V] - [Kannur University Mangattuparamba Campus]
-- Member 2: [Kiran Nath V V] - [Kannur University Mangattuparamba Campus]
-- Member 3: [Vishnu Vinod] - [Kannur University Mangattuparamba Campus]
+- Member 2: [Vishnu Vinod] - [Kannur University Mangattuparamba Campus]
+- Member 3: [] - []
 
 ### Project Description
 [This project is really useful to those guys who forgets the birthdays of their friends.This website created will help you to enter your friends date of birth and their e-mail and after storing the data it will notify you and will sent them birthday wishes..  ]
